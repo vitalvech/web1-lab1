@@ -1,0 +1,50 @@
+body
+{
+background-color:black;
+color:orangered;
+font-family:Franklin Gothic Heavy;
+}
+a
+{
+    color:green
+}
+hr
+{
+border-color:greenyellow;
+}
+h1
+{
+text-align:center;
+}
+h2
+{
+text-align:center;
+}
+p
+{
+text-indent:1.5em;
+font-size: 175%;
+}
+h5
+{
+
+}
+ol
+{
+font-size: 125%;
+}
+ul
+{
+font-size: 125%;
+}
+form
+{
+text-indent:1.5em;
+font-size: 175%;
+}
+li {
+    list-style-type: none;
+}
+li::before {
+    content: "🛢️";
+}
